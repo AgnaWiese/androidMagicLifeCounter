@@ -1,4 +1,4 @@
-package com.EvgTrush.myapp
+package com.evgtrush.magiclifecounter
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

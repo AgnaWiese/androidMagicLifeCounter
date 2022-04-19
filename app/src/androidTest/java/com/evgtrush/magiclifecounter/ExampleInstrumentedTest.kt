@@ -1,4 +1,4 @@
-package com.EvgTrush.myapp
+package com.evgtrush.magiclifecounter
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
